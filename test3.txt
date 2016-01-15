@@ -1,0 +1,4 @@
+// this is test3.txt
+// It only exists in br3
+
+test 3 in branch 3
